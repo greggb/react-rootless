@@ -1,0 +1,9 @@
+{
+  "name": "react-rootless",
+  "version": "0.0.1",
+  "description": "Render component children without needing an array or node wrapper",
+  "main": "index.js",
+  "author": "greggb",
+  "license": "MIT",
+  "private": false
+}
